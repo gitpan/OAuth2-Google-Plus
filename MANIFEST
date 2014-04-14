@@ -2,7 +2,6 @@ LICENSE
 MANIFEST
 META.yml
 Makefile.PL
-OAuth2.komodoproject
 README
 README.md
 dist.ini
